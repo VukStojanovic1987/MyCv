@@ -5,3 +5,5 @@ MyCv is a CV creation app which allows users to quickly generate professional re
 Note: The application is currently still in development.
 
 Copyrights © Vuk Stojanović. All rights reserved.
+
+![App](https://github.com/vukstojanovic1987/MyCv/blob/master/Screenshot.png)
