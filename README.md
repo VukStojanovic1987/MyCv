@@ -6,4 +6,4 @@ Note: The application is currently still in development.
 
 ![App Image](https://github.com/vukstojanovic1987/MyCv/blob/master/Screenshot.png)
 
-Copyrights © Vuk Stojanović. All rights reserved.
+Copyright © Vuk Stojanović, 2023. All rights reserved.
